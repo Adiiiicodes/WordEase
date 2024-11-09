@@ -29,9 +29,6 @@ pip install comtypes tkinter ttkbootstrap python-docx pandas
 2. Install the dependencies using the command mentioned above.
 3. Run the application:
 
-```bash
-python emootes.py
-```
 
 ## Usage 🖱️
 
